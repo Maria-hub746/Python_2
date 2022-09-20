@@ -1,0 +1,8 @@
+setup.py
+src/timmins/__init__.py
+src/timmins/mysor.py
+src/useful.egg-info/PKG-INFO
+src/useful.egg-info/SOURCES.txt
+src/useful.egg-info/dependency_links.txt
+src/useful.egg-info/entry_points.txt
+src/useful.egg-info/top_level.txt
